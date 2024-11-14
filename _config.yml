@@ -21,10 +21,11 @@
 title: Chief-Engineer
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Former head game admin, project manager, and operations director for Space Wizards Fedration and the official Space Station 14 servers, Wizard's Den.
+  Former head game admin, project manager, and operations director for Space Wizards Federation and the official Space Station 14 servers, Wizard's Den.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chief-engineer.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Chief-Engineer
+discord_feed: "https://discord.gg/gSrYgbYkND"
 
 # Build settings
 theme: minima
