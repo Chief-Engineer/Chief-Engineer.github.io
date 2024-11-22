@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Departure
+tag: ss14_departure
 ---
+{% capture content_string %}*[Departure: Updates List]({% post_url 2024-11-22-departure-all-updates %}) contains a list of updates to this post.*{% endcapture %}
+{% include alert/info.html content=content_string %}
+
 About a week ago, the headmin team decided to leave the project. We are mixed on whether anything could bring us back, but at least some have no interest in returning. Joining us in our departure are several members of the game admin team.
 
 Below, we detail some of the issues we've seen, and why we don't think things are likely to improve. We encourage anyone who has seen or been affected by these issues, especially those who are convinced they will not improve, to choose to follow us. We ask that if you choose to, you make it known, at least within staff.
