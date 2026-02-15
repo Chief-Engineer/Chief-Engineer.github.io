@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "The Double Edged Sword of Discretion"
+redirect_from:
+  - /2025/02/15/double-edged-sword-of-discretion.html
 ---
 
 This post is a response to [this one on Wizard's Den's forums](https://forum.spacestation14.com/t/an-open-letter-regarding-wizden-leadership/26477/22). Specifically this part:
