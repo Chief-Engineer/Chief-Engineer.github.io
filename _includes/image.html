@@ -1,0 +1,7 @@
+<figure class="post-image">
+	<img style="margin-left: auto; margin-right: auto;" src="{{ include.path | relative_url }}"
+		alt="{{ include.alt }}">
+	{% if include.caption %}
+		<figcaption>{{ include.caption }}</figcaption>
+	{% endif %}
+</figure>
