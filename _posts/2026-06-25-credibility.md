@@ -26,8 +26,6 @@ Both of these statements were made in public places. The comments made on Discor
 
 I am not a harasser. These unsubstantiated accusations PJB has been hurling around are closer to harassment than anything I've ever done. PJB's contradiction of her former self offers a glimpse at her credibility with regard to statements surrounding the admins and headmins who left the project in 2024, citing toxicity in leadership, among other things.
 
-## Response from PJB
-
 [^stateOfWizden]: PJB's announcement on the Space Station 14 forums titled [On the State of Wizden](https://forum.spacestation14.com/t/on-the-state-of-wizden/14375)<sup>([archive](https://web.archive.org/web/20260304062912/https://forum.spacestation14.com/t/on-the-state-of-wizden/14375))</sup>.
 [^departureLie]: PJB accusing the departure headmins of being bad actors who lied to the admin team [in the SS14 Discord](https://discord.com/channels/310555209753690112/675078881425752124/1519490559058772003).
 [^reddit1984]: [A reply from PJB](https://www.reddit.com/r/ss14/comments/1ub82wh/comment/osu5e2y/) on a Reddit post where one of the admins who left in the departure shares they were censored by PJB on the Space Station 14 forums for attempting to defend themselves from her accusations.
