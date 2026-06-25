@@ -44,7 +44,7 @@ While "talk to me like a human" is typically a reasonable request, PJB has been 
 
 > She has never been willing to come to the table unless she has something to use against you [...] We've tried to bring her to the table for years and she has only escalated for years
 
-\- Princess Chester, Space Wizards Federation (StaffDen)
+-- Princess Chester, Space Wizards Federation (StaffDen)
 
 PJB has made an announcement[^PJBAnnouncement] in the Space Station 14 Discord where she claims that she "didn't do any of this with the intention of extortion." Despite this, PJB has banned multiple current StaffDen staff from the Space Station 14 Discord server and has retained control of it after the takeover.
 
