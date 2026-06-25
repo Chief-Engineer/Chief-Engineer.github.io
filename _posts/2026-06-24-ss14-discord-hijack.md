@@ -10,7 +10,7 @@ title: "PJB Holds SS14 Discord Server Hostage"
 
 This is a post focused on an ongoing event that is part of a series of events that has been ongoing for months at this point. I am working on a more comprehensive timeline, but background information in this post will be minimal.
 
-I have attempted to reach out to a representative from StaffDen, to PJB, and to Julian for comments and to answer questions. I have not received a response from PJB or Julian at the time of writing.
+I have attempted to reach out to a representative from StaffDen, to PJB, and to Julian for comments and to answer questions. I have not received a response from Julian at the time of writing. After publication and a subsequent request for comments, PJB [responded](/assets/2026-06-credibility/2.png) with "I do not consent to you publishing any of my comments" immediately followed by her blocking me.
 
 ### Biases and Conflicts
 I was a head game admin, project manager, and the operations director for Space Wizards Federation and the official Space Station 14 servers, Wizard's Den, before [leaving]({% post_url 2024-11-10-departure %}) with the rest of the headmin team and many admins in 2024. Events that have occurred both before and after my departure can reasonably be interpreted as something that may bias my coverage of events. I cannot reasonably disclose an exhaustive list of potential biases, but there are potential biases related to both sides of the ongoing dispute connected to Space Station 14's Wizard's Den.
