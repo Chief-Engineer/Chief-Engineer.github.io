@@ -5,7 +5,7 @@ tags: ss14_departure ss14_departure_updates
 ---
 {% include departure-update-lead.md %}
 
-{% include image.html path="/assets/2026-06-credibility/1.png" %}
+{% include image.html path="/assets/2026-06-credibility/1.png" caption="The screenshot in the bottom half of the image was modified to emphasize the most relevant portions." %}
 
 I reached out to PJB for comments and to answer questions. After publication, I received a response from PJB: "I do not consent to you publishing any of my comments" immediately followed by her blocking me.[^PJBRfC] Excluding the previous quote, which was a response to my request for comments, all quotes attributed to PJB in this post were made in public view, either on public web pages or in public Discord servers. I've taken care not to take quotes out of context.
 
