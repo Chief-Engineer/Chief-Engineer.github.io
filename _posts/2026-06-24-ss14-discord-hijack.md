@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "PJB Holds SS14 Discord Server Hostage"
+description: PJB regains control of the SS14 server and seems to attempt to leverage it to control StaffDen's actions
 ---
 
 {% capture content_string %}**This is not a legal finding or definitive record of events. The contents of this post concern a situation ongoing at the time of publication, new information may substantially change the public understanding of the situation.** If you believe any content to be factually false or defamatory, please contact me requesting review, correction, or removal with supporting documentation. Corrections can be provided publicly with [a GitHub issue](https://github.com/Chief-Engineer/Chief-Engineer.github.io/issues), and review will be faster if I am subsequently notified of the request via Discord. Readers should consult original sources for verification.{% endcapture %}

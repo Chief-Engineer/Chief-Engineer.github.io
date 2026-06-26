@@ -2,6 +2,7 @@
 layout: post
 title: Departure
 tag: ss14_departure
+description: The headmin team has decided to leave Space Station 14.
 ---
 {% capture content_string %}*[Departure: Updates List]({% post_url 2024-11-22-departure-all-updates %}) contains a list of updates to this post.*{% endcapture %}
 {% include alert/info.html content=content_string %}

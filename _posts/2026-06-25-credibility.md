@@ -2,6 +2,8 @@
 layout: post
 title: "PJB Lies about 2024 Admin Departure"
 tags: ss14_departure ss14_departure_updates
+description: PJB attempts to twist the narrative on the 2024 admin departure.
+image: /assets/2026-06-credibility/1.png
 ---
 {% include departure-update-lead.md %}
 

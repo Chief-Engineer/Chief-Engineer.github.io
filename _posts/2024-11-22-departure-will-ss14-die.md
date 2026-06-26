@@ -2,6 +2,7 @@
 layout: post
 title: "Departure Update: Will SS14 Die?"
 tags: ss14_departure ss14_departure_updates
+description: A followup to the departure explaining that Space Station 14 is unlikely to die as a result
 ---
 {% include departure-update-lead.md %}
 

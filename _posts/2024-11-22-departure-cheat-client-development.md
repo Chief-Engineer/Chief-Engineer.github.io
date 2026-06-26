@@ -2,6 +2,7 @@
 layout: post
 title: "Departure Update: Open Source Cheat Client Development"
 tags: ss14_departure ss14_departure_updates
+description: An update on the departure post following contact from the developer of an open source cheat client for SS14
 ---
 {% include departure-update-lead.md %}
 
