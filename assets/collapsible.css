@@ -1,0 +1,8 @@
+.collapsible summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.collapsible__content {
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,43 @@
+<link title="timeline-styles" rel="stylesheet" 
+      href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+<script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+<style>
+#timeline-embed {
+  box-sizing: border-box;
+  width: 100vw;
+  max-width: 1600px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 18px 0;
+  background: #fff;
+  z-index: 1;
+  min-height: 60vh;
+}
+</style>
+<div id='timeline-embed'></div>
+<script>
+const jsonUri = "{{ include.jsonUri }}";
+
+const options = {
+  hash_bookmark: true,
+  initial_zoom: 7,
+  start_at_end: false
+};
+
+fetch(jsonUri, { method: 'GET', mode: 'cors' })
+  .then(response => {
+    if (!response.ok) throw new Error('Network response was not ok: ' + response.status);
+    return response.json();
+  })
+  .then(storyJson => {
+    // timeline container id and story JSON
+    const containerId = 'timeline-embed';
+    // Initialize timeline
+    window.timeline = new TL.Timeline(containerId, storyJson, options);
+  })
+  .catch(err => {
+    console.error('Failed to load timeline JSON:', err);
+    document.getElementById('timeline-embed').innerText = 'Could not load timeline data.';
+  });
+</script>

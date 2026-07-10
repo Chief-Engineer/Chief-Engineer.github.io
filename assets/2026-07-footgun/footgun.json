@@ -1,0 +1,633 @@
+{
+  "title": {
+    "text": {
+      "headline": "Wizard's Den Drama: 2026 Edition",
+      "text": "If only someone could have seen this coming..."
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "2024", "month": "11", "day": "10" },
+      "text": {
+        "headline": "The Departure",
+        "text": "All three head game admins left Wizard's Den, <a href='https://chief-engineer.github.io/2024/11/10/departure.html'>citing multiple issues</a> they felt were so strongly ingrained that they were unlikely to meaningfully improve. They were followed by half of the admin team."
+      },
+      "media": {
+		  "url": "<blockquote>There are significant internal issues with toxicity and hostility high within the project.</blockquote>",
+		  "credit": "Departure Letter"
+	  },
+      "group": "Major Events",
+      "unique_id": "departure"
+    },
+    {
+      "start_date": { "year": "2024", "month": "11", "day": "18" },
+      "text": {
+        "headline": "On the State of Wizden",
+        "text": "PJB publishes <a href='https://forum.spacestation14.com/t/on-the-state-of-wizden/14375'>On the State of Wizden</a> on the Wizard's Den forums. It opens by acknowledging and linking to the departure letter before going on to explain Wizard's Den's intention to address the issues described in the letter, including toxicity."
+      },
+      "media": {
+		  "url": "<blockquote>[The departing admins] have been heard by the current Project Management (PM) team. We’re doing our best to address [the issues they raised] as soon as possible.</blockquote>",
+		  "credit": "On the State of Wizden"
+	  },
+      "display_date": "9 days post-departure",
+      "unique_id": "2024-state-of-wizden"
+    },
+    {
+      "start_date": { "year": "2024", "month": "12", "day": "29" },
+      "text": {
+        "headline": "I don't know how to explain to you what harassment is",
+        "text": "Seemingly related to the <a href='https://forum.spacestation14.com/t/2024-12-17-dehubbing-of-einstein-engines-servers/15111'>dehubbing of Einstein Engines servers</a>, PJB publishes <a href='https://slugcat.systems/post/24-12-28-i-dont-know-how-to-explain-to-you-what-harassment-is/'>I don't know how to explain to you what harassment is</a> on her personal blog. PJB describes some of the harassment that has been directed at her and her friends in connection with SS14, and makes the claim that people who don't do something to stop harassment perpetuate the harassment.<br /><br />Notably missing from the examples PJB gives of harassment is any mention of the various kinds of harassment PJB's longtime friend, Moony, perpetuated against multiple members of Wizard's Den staff."
+      },
+      "media": {
+		  "url": "<blockquote>Community members that turn a blind eye to harassment perpetuated by their peers are, themselves, perpetuating harassment.</blockquote>",
+		  "credit": "PJB — \"I don't know how to explain to you what harassment is\" (2024)"
+	  },
+      "unique_id": "rules-for-thee"
+    },
+    {
+      "start_date": { "year": "2025", "month": "1" },
+      "text": {
+        "headline": "Departure Outreach Efforts End",
+        "text": "January 2025 was the last status update communication regarding changes being made to draw back departing admins. In late April 2025, it is effectively confirmed that drawing back departing admins was given up on months before April. It is unclear when exactly the effort ended, and it is unlikely that there is a specific moment in time, but rather a gradual decrease.<br /><br />Based on future events, it is evident that efforts to improve the situation at Wizard's Den for those still there did not end."
+      },
+      "group": "Behind the Scenes",
+      "display_date": "2-5 months post-departure",
+      "unique_id": "departure-loss-locked-in"
+    },
+    {
+      "start_date": { "year": "2025", "month": "4" },
+      "text": {
+        "headline": "Formation of Internal Affairs",
+        "text": "An internal affairs team is formed to enforce staff policy and mediate conflicts between Wizard's Den staff. Among their powers are the ability to suspend or remove staff members, but wizards are exempt."
+      },
+      "media": {
+		  "url": "<blockquote>While Wizards are necessarily exempt from the certain (sic) enforcement powers of the Internal Affairs Team, such as removal, they are expected to follow their directives where applicable.</blockquote>",
+		  "credit": "<a href='https://docs.spacestation14.com/en/wizden-staff/internal-affairs-team.html'>Wizard's Den Internal Affairs Document</a>"
+	  },
+      "group": "Major Events",
+      "unique_id": "ia-real"
+    },
+    {
+      "start_date": { "year": "2025", "month": "10" },
+      "text": {
+        "headline": "Dissolution of Internal Affairs",
+        "text": "PJB creates an internal topic on the Wizard's Den forums titled \"Abolish current Internal Affairs team\" claiming the only thing they've done since being formed is \"completely [mishandle a] situation that feels like incompetence at best, harassment at worst.\" The poll in the topic is closed early by PJB when she discovers that \"IA was already practically disbanded, but they just didn't tell anybody.\"<br /><br />IA had been criticized for its lack of transparency and communication. Reported reasons for the issues IA experienced have ranged from interference by PJB to the members not having enough free time to properly handle cases."
+      },
+      "media": {
+		  "url": "<blockquote>[T]his does not need to mean that the issues IA was made for need to go fully unresolved. I promise that I will do my best address (sic) any issues if you contact me.</blockquote>",
+		  "credit": "PJB"
+	  },
+      "group": "Major Events",
+      "unique_id": "rip-ia"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "10", "hour": "14", "minute": "8" },
+      "text": {
+        "headline": "PJB Closes PR#42872",
+        "text": "PJB closes a <a href='https://github.com/space-wizards/space-station-14/pull/42872'>PR</a> that would have added illeism as accents, calling it bloat. This appears to be the start of a chain of events that would draw an unprecedented level of the SS14 community's attention to the actions and conduct of Wizard's Den leadership."
+      },
+      "media": {
+		  "url": "<blockquote>Yeah I'm gonna be honest, just RP this yourself. This feels like bloat.</blockquote>",
+		  "credit": "<a href='https://github.com/space-wizards/space-station-14/pull/42872#issuecomment-3877875146'>PJB</a>"
+	  },
+      "group": "Major Events",
+      "unique_id": "1984-42872"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "10", "hour": "17", "minute": "2" },
+      "text": {
+        "headline": "Illeism Trait Discord Thread",
+        "text": "<a href='https://discord.com/channels/310555209753690112/1470827168593608808'>A Discord thread</a> is opened by a maintainer asking if PJB would reconsider PR#42872 and elaborate on why she feels it's a bloat mechanic. PJB replies almost immediately, saying that she doesn't do Discord discussions, before continuing to respond.<br /><br />Despite multiple maintainers describing her responses as hostile, PJB's responses seem to convince maintainers that closing the PR was appropriate. She continues, saying the PR was brigaded and she is being shamed for not predicting the future, as maintainers request that the explanation be summarized and relayed to the PR author. After refusing to correct another maintainer's summary she claims is inaccurate, she eventually links the Discord thread on the PR. The entire discussion lasts almost an hour and consists primarily of argument."
+      },
+      "media": {
+		  "url": "<blockquote>I wanna see you run this project buddy</blockquote>",
+		  "credit": "<a href='https://discord.com/channels/310555209753690112/1470827168593608808/1470842173174972476'>PJB</a>"
+	  },
+      "unique_id": "a-shameful-explanation"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "10", "hour": "18", "minute": "43" },
+      "text": {
+        "headline": "PJB Opens PRs to Remove Dwarves and Accents",
+        "text": "Within an hour of PJB's last message in the Discord thread, she opens <a href='https://github.com/space-wizards/space-station-14/pull/42880'>PR#42880</a> and <a href='https://github.com/space-wizards/space-station-14/pull/42882'>PR#42882</a>. The PRs remove several accents and remove dwarves as a species respectively.<br /><br />The dwarf removal PR in particular appears to be hastily filled out, with no changelog entries and no reported breaking changes in the original version.<br /><br />A vote for each is started on the forums in a section that limits discussion to staff and those who are whitelisted. Despite being banned from the SS14 Discord and GitHub repositories, Moony is added to the whitelist and allowed to participate in the discussions. Voting is limited to maintainers only."
+      },
+      "media": {
+		  "url": "<blockquote>These are just bad bloat content that doesn't even work properly or has obvious issues if you look at it too closely.</blockquote>",
+		  "credit": "<a href='https://github.com/space-wizards/space-station-14/pull/42880#issue-3923010213'>PJB</a>",
+		  "caption": "The reason provided by PJB on the PR for the removal of several accents"
+	  },
+      "unique_id": "spite-prs"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "10", "hour": "20", "minute": "16" },
+      "text": {
+        "headline": "WizDen Staff Create Group Chat",
+        "text": "Some Wizard's Den staff work to organize a private group chat. Among the purposes are discussing current maintainer sentiment and confidence in project leadership. This group chat would later be responsible for the Governance Internal Letter."
+      },
+      "group": "Behind the Scenes",
+      "unique_id": "awakening"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "11", "hour": "23", "minute": "45" },
+      "text": {
+        "headline": "\"Denial\" State of Grief"
+      },
+      "media": {
+		  "url": "<blockquote>I’m going to be honest [...] both of your suggestions are entirely useless and do not work if you think about them for five seconds. You are wasting everybody’s time with this kind of stuff.<br /><br />You are firmly in the “denial” state of grief. Stop trying to save this broken YAMLslop feature.</blockquote>",
+		  "credit": "<a href='https://forum.spacestation14.com/t/remove-bad-accents/26419/21'>PJB</a>",
+		  "caption": "PJB comments on suggestions on how to improve accent systems in Space Station 14"
+	  },
+      "unique_id": "denial-state-of-grief"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "12", "hour": "14", "minute": "42" },
+      "text": {
+        "headline": "PJB Self-Merges Removal of Multiple Accents",
+        "text": "PJB self-merges her <a href='https://github.com/space-wizards/space-station-14/pull/42880'>PR</a> removing several accents despite opposition from the community and significant opposition from voting maintainers. PJB's decision and conduct in relation to the PR are widely criticized by staff and the community."
+      },
+      "media": {
+		  "url": "<blockquote>I’ve been extremely disappointed in the discussion in this thread, especially from maintainers who should know better. Most posts in here other than [Moony]’s have been completely missing the point and have been suggesting completely untenable solutions [...]<br /><br />I’m just going to self-merge this PR at this point.</blockquote>",
+		  "credit": "<a href='https://forum.spacestation14.com/t/remove-bad-accents/26419/27'>PJB</a>"
+	  },
+      "unique_id": "only-moony-can-be-right"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "13", "hour": "00", "minute": "30" },
+      "text": {
+        "headline": "PJB Bans CptJeanLuc",
+        "text": "In an internal Discord channel, PJB times out CptJeanLuc for \"fail[ing] to think critically about this debate\" as CptJeanLuc expresses disagreement with PJB's position on accents. PJB proceeds to ban CptJeanLuc from the Wizard's Den Discord server and game servers after someone else removes the timeout on CptJeanLuc and CptJeanLuc tells PJB that they sound unhinged."
+      },
+      "media": {
+		  "url": "<blockquote>He has lost the privilege of basic decency to communication</blockquote>",
+		  "caption": "A comment about CptJeanLuc between PJB timing him out and banning him",
+		  "credit": "PJB"
+	  },
+      "group": "Behind the Scenes",
+      "unique_id": "privilege-of-basic-decency"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "13", "hour": "0", "minute": "31" },
+      "text": {
+        "headline": "PJB Self-Merges Removal of the Dwarf Species",
+        "text": "PJB self-merges her <a href='https://github.com/space-wizards/space-station-14/pull/42882'>PR</a> removing the dwarf species despite majority opposition from maintainers and significant opposition from the community. Like with the accents PR, PJB's decision and conduct in relation to the PR are widely criticized by staff and the community.<br /><br />Shortly before self-merging, PJB provides data about which species are in active character slots for Wizard's Den players that have played in the last 2 months. Despite this showing that dwarves rank 4th of 9 species in popularity, PJB rejects requests to notify players in advance of the removal.<br /><br />Hannah 'FairlySadPanda' Dawson, <a href='https://github.com/space-wizards/docs/pull/477'>author of WizDen's Species Design Guidelines</a>, contends PJB violated those guidelines \"by not adequately consulting the playerbase and taking insufficient care to avoid controversy when she chose to remove dwarfs, especially because the obvious risk of that exact controversy was repeatedly cited at the time, and was the entire reason species removal guidelines were added in the first place.\""
+      },
+      "media": {
+		  "url": "<blockquote>No offense, if you think any of what you’re suggesting is a reasonable way to approach this: as project lead I have the experience to tell you: you are completely incorrect, please stop talking and wasting people’s time.</blockquote>",
+		  "credit": "<a href='https://forum.spacestation14.com/t/remove-dwarves/26427/31'>PJB</a>",
+		  "caption": "This comment follows a suggestion that players be notified a week or two in advance of removal of dwarves"
+	  },
+      "group": "Major Events",
+      "unique_id": "as-project-lead"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "13", "hour": "15", "minute": "57" },
+      "text": {
+        "headline": "PJB Updates Content Review Policy",
+        "text": "PJB <a href='https://github.com/space-wizards/docs/commit/8e50f2f974d5c6b77fb7c5a91cb1c6edf5fa12e6'>updates</a> Wizard's Den Content Review Policy, a document that outlines the procedure for reviewing and merging PRs to the Space Station 14 content repository.<br /><br />The old version allowed for a vote to be called, which would result in a discussion topic being automatically created. The new version removed sections related to voting and replaced them with ones enabling a maintainer to make a final determination by weighing discussion \"based on its own merits\" with further disagreements resolved by leadership.<br /><br />Both versions allow any portion to be waived or modified by a lead maintainer, project manager, or wizard. Still, some view the update as a way to retroactively justify the handling of PJB's recently self-merged PRs, despite opposition to those PRs consisting of various reasons rather than merely \"hard votes.\"<br /><br />Part of the commit message used for the change links to an internal essay on Wikipedia. Wikipedia has frequently been selectively used by some in relation to SS14 in what may be an attempt to appeal to authority. While it is not a fringe essay, a header on the essay page indicates that it is not a Wikipedia policy or guideline, and that \"it has not been thoroughly vetted by the community.\""
+      },
+      "media": {
+		  "url": "<blockquote>Hard votes without underlying reasoning do not work to achieve a good outcome</blockquote>",
+		  "caption": "Part of the commit message used in the change.",
+		  "credit": "PJB"
+	  },
+      "unique_id": "no-democracy-in-my-tyranny"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "15" },
+      "text": {
+        "headline": "Banned but \"Steering\"",
+        "text": "In a SS13 server's Discord, Moony <a href='/assets/2026-07-footgun/steering.png'>claims</a> to be \"steering,\" seemingly in regard to the ongoing situation at Wizard's Den.<br /><br />At the time this statement was made, Moony had been banned for over a year from the Wizard's Den GitHub and Discord after perpetrating multiple kinds of harassment against Wizard's Den staff. Despite this and PJB's beliefs expressed in her 2024 blog post about harassment, PJB continued to maintain a close relationship with Moony."
+      },
+      "media": {
+		  "url": "<blockquote>i'm helping steer right now and i think everything will be fine</blockquote>",
+		  "credit": "Moony"
+	  },
+      "unique_id": "the-real-coup"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "17", "hour": "2" },
+      "text": {
+        "headline": "Attempt to Bypass Appeals",
+        "text": "PJB asks project managers about unbanning Moony. Some project managers respond that Moony should make an appeal, because unbanning her without one would look bad, but that they're fine with the unban."
+      },
+      "group": "Behind the Scenes",
+      "media": {
+		  "url": "<blockquote>Chat, am I rocking the boat too much by asking if we can unban [Moony] already</blockquote>",
+		  "credit": "PJB"
+	  },
+      "unique_id": "appeal-for-optics"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "17", "hour": "15", "minute": "18" },
+      "text": {
+        "headline": "Moony Submits a Ban Appeal",
+        "text": "Moony submits her <a href='https://forum.spacestation14.com/t/kaylie-multiple-issues-reason-was-never-given-in-short-form/26550'>third ban appeal</a>. There are multiple issues with the appeal, including that it makes no mention of one of the categories of harassment that Moony participated in.<br /><br />Moony also pings project managers to handle the appeal, something extremely unusual for an appellant to do. Project managers do not handle most appeals, and appellants do not get to pick who will handle their appeal. Moony's only appeal before The Departure was handled by community moderators. The second appeal was handled by project managers, and this one would be too."
+      },
+      "media": {
+		  "url": "<blockquote>[...] we both know this is a long and complicated thing and I don’t want to spill too many beans.</blockquote>",
+		  "credit": "Moony"
+	  },
+      "unique_id": "serial-harassment-appeal-3"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "19", "hour": "18" },
+      "text": {
+        "headline": "Chief_Engineer is Banned",
+        "text": "Chief_Engineer <a href='https://chief-engineer.github.io/2026/02/19/banned.html'>is banned</a> from multiple Wizard's Den platforms, including the forums. Requests for information about the ban go unanswered for several days."
+      },
+      "media": {
+		  "url": "<blockquote>im not really interested in discussing current events</blockquote>",
+		  "caption": "A project manager's response to Chief_Engineer DMing them to try to get information about the ban. This would be followed by no response when the project manager was asked if they had someone to direct Chief_Engineer to for information."
+		  },
+      "unique_id": "a-totally-fair-and-normal-ban"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "19", "hour": "21", "minute": "26" },
+      "text": {
+        "headline": "Moony's Appeal is Accepted",
+        "text": "Moony's appeal <a href='https://forum.spacestation14.com/t/kaylie-multiple-issues-reason-was-never-given-in-short-form/26550/4'>is accepted</a>, with no attempt to correct the omissions in the appeal.<br /><br />While bans from Discord are typically discussed by community moderators, this one was not. Ban appeals are almost always determined by vote, including ones handled by project managers. While some project managers expressed support for accepting the appeal, there was never a vote. At one point, PJB makes what seems to be a joking reference to the recent self-merges while asking if she can accept the appeal.<br /><br />The public message accepting the appeal is posted by Julian, a project manager and lead maintainer, after he asks PJB not to post it to avoid people \"dreaming up some stupid scenarios of pjb waving through the appeal.\" A different project manager said they felt a mod vote should be run. After this was shot down by both PJB and Julian, the idea of at least informing mods about an evidence PDF was brought up, but this was also shot down by PJB."
+      },
+      "group": "Behind the Scenes",
+      "media": {
+		  "url": "<blockquote>Let someone else post the \"appeal accepted\" message at least please</blockquote>",
+		  "credit": "Julian"
+	  },
+      "unique_id": "welcoming-a-harasser"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "20", "hour": "6", "minute": "52" },
+      "text": {
+        "headline": "CptJeanLuc Submits a Ban Appeal",
+        "text": "CptJeanLuc submits a single ban appeal for both their Discord and GitHub bans, which were placed at around the same time for similar reasons. They are told to separate their appeals because policy requires bans on different platforms to be appealed separately. This is true. However, it was not raised in Moony's appeal, which was also a single appeal for bans on multiple platforms. The gap between Moony's bans was much more significant than CptJeanLuc's.<br /><br />CptJeanLuc's original appeal appears to have been hidden from public view, but the second one is still visible. CptJeanLuc says the reason they were given for the appeal being hidden is that it leaked staff chats, but that the only reason it was made is because PMs told them to appeal. CptJeanLuc says they offered to show PMs the appeal privately first, but the offer was declined. CptJeanLuc says they were asked to exclude screenshots of staff chats, which were included in the first appeal, and mentions of PJB leaving the project, which happened after the first appeal was made, from the second appeal."
+      },
+      "media": {
+		  "url": "<blockquote>I have been asked to submit this again because it is policy that all bans on different platforms be appealed separately.</blockquote>",
+		  "credit": "<a href='https://forum.spacestation14.com/t/cptjeanluc-none-provided-or-perhaps-nah/26624'>CptJeanLuc</a>"
+	  },
+      "display_date": "About 3 days after Moony's appeal",
+      "unique_id": "consistent-handling"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "20", "hour": "17" },
+      "text": {
+        "headline": "SS14 Governance Internal Letter",
+        "text": "A letter is posted to an internal section of the Wizard's Den forums. It contains signatures from over 30 members of Wizard's Den staff, with four of them being anonymous signatures. The signatures are from members from various parts of the project, including project managers.<br /><br />The letter has two sections, with the first addressed to project leadership describing issues and desired changes. The second section is addressed directly to PJB and contains personal statements from 13 different staff members, one of them anonymous. Before going into the personal statements, the letter says: <blockquote>PJB, everyone on the team recognizes that you work hard, and we appreciate your efforts. You truly care about the project and want what’s best for it at the end of the day. We also want what’s best for you and the project. Things cannot continue the way that they are currently going. We are all worried about the future of the project, and we hope that you’ll hear us out.</blockquote><br />Within an hour and a half of it being posted, PJB quits the SS14 Discord server and another wizard says they will be stepping in as interim project lead."
+      },
+      "media": {
+		  "url": "<iframe src='https://pastebin.com/embed_iframe/XSTnbnGC'></iframe>",
+		  "caption": "The first section of the letter, posted publicly by PJB. The only edit is the removal of signatures at the bottom. The second part of the letter isn't included."
+	  },
+      "group": "Major Events",
+      "unique_id": "governance-internal-letter"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "23", "hour": "7", "minute": "58" },
+      "text": {
+        "headline": "No Appeal, No Vote",
+        "text": "Wizard's Den staff asking internally about Chief_Engineer's bans are warned to stop and told that an appeal will not be accepted or voted on. They are not provided any details about what led to the ban. The decision to not allow an appeal or vote appears to be made unilaterally and without discussion."
+      },
+      "media": {
+		  "url": "<blockquote>An appeal won't be accepted and it won't be voted on.</blockquote>",
+		  "credit": "Julian"
+	  },
+      "group": "Behind the Scenes",
+      "unique_id": "king-julian"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "23", "hour": "22" },
+      "text": {
+        "headline": "Chief_Engineer Ban Statement",
+        "text": "Chief_Engineer is provided an official statement about their ban, but still no clear explanation of a reason. The statement is discussed and the reason speculated about in <a href='https://chief-engineer.github.io/2026/02/24/4noraisin.html'>a post</a>."
+      },
+      "unique_id": "4-no-raisin"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "25", "hour": "14", "minute": "33" },
+      "text": {
+        "headline": "\"Remove dwarves\" is Reverted",
+        "text": "With PJB gone, PR#43027 is merged, reverting PR#42882, which was PJB's self-merged PR that removed dwarves. The PR lists requirements that must be met before May 31st to avoid dwarves being removed again."
+      },
+      "unique_id": "revert-remove-dwarves"
+    },
+    {
+      "start_date": { "year": "2026", "month": "2", "day": "26", "hour": "17", "minute": "45" },
+      "text": {
+        "headline": "\"Remove bad accents\" is Partially Reverted",
+        "text": "With PJB gone, PR#43030 is merged, partially reverting PR#42880, which was PJB's self-merged PR that removed multiple accents."
+      },
+      "unique_id": "revert-remove-bad-accents"
+    },
+    {
+      "start_date": { "year": "2026", "month": "3", "day": "5", "hour": "17" },
+      "text": {
+        "headline": "\"A Massive Rant\" Begins",
+        "text": "PJB begins what has been <a href='https://notaslug.org/posts/wizden-implosion/'>described as</a> \"a massive rant\" in a public Discord server related to SS13 and SS14. In the rant, PJB describes the Governance Internal Letter as \"blatantly malicious\" and makes other remarks about various people who have been involved in SS14. Among those remarks, PJB describes a maintainer as \"not bothering to turn their brain on\" and says she is unable to \"spend teh fuckign (sic) energy to deal with people who are being stupid.\""
+      },
+      "media": {
+		  "url": "<blockquote>I don't want SS14 to die or anything but I also am not gonna sit here and take being outright abused by 20+ members of staff like that</blockquote>",
+		  "credit": "PJB",
+		  "caption": "PJB seems to be referring to the Governance Internal Letter and the people who signed it"
+	  },
+      "unique_id": "rational-thought"
+    },
+    {
+      "start_date": { "year": "2026", "month": "3", "day": "5", "hour": "17", "minute": "55" },
+      "text": {
+        "headline": "Some \"Objectively Destructive\" Encouragement",
+        "text": "Moony <a href='/assets/2026-07-footgun/blow-it-up.png'>seems to encourage</a> PJB to \"blow up\" Wizard's Den. While these statements were not made in a Wizard's Den Discord server, Wizard's Den project managers seem to have been made aware of these statements, but did not choose to re-ban Moony as a result."
+      },
+      "media": {
+		  "url": "<blockquote>ma'am if you decide to just blow it up i will help you.</blockquote>",
+		  "credit": "Moony"
+	  },
+      "group": "Major Events",
+      "unique_id": "order-66"
+    },
+    {
+      "start_date": { "year": "2026", "month": "3", "day": "5", "hour": "18", "minute": "5" },
+      "text": {
+        "headline": "\"Engine Bitch\"",
+        "text": "PJB <a href='/assets/2026-07-footgun/engine.png'>responds</a> to a suggestion that she use her current \"vacation\" from Space Station 14 to contribute to another project using RT (the SS14 game engine) by saying she doesn't even want to show her face on GitHub."
+      },
+      "media": {
+		  "url": "<blockquote>I have no interest in contributing to RT as an engine bitch without upstream control</blockquote>",
+		  "credit": "PJB"
+	  },
+      "unique_id": "ego-moment"
+    },
+    {
+      "start_date": { "year": "2026", "month": "3", "day": "5", "hour": "20", "minute": "43" },
+      "text": {
+        "headline": "Casting Doubt",
+        "text": "Bhijn, a Wizard's Den project manager who was not involved in the writing or signing of the letter, joins the conversation <a href='/assets/2026-07-footgun/unclear.png'>saying</a> that it is still unclear to them if people listed as signers actually intended to sign the Governance Internal Letter, or if their names were just put on there.<br /><br />The inappropriate inclusion of a significant number of signatures would have required a conspiracy among everyone involved in the writing process where none chose to speak up. This would have further required the people whose signatures were inappropriately included to never notice and speak up."
+      },
+      "media": {
+		  "url": "<blockquote>I would have hope tghose (sic) people would've been smart enough to speak out if that were the case yes</blockquote>",
+		  "credit": "PJB"
+	  },
+      "unique_id": "grasping"
+    },
+    {
+      "start_date": { "year": "2026", "month": "5", "day": "2", "hour": "13", "minute": "46"},
+      "text": {
+        "headline": "The Purge",
+        "text": "PJB returns, demoting many members of staff, and posts a topic on the forums titled <a href='https://forum.spacestation14.com/t/where-has-pjb-been/27331'>Where has PJB been?</a><br /><br />People demoted seem to include most people who signed the letter. PJB bans many people who criticize her ongoing actions in the hours following her return.<br /><br />Three signers are said to have apologized to PJB at some point after the letter was posted, and they were reportedly spared from initial retribution for signing before two were banned for voicing opposition, but there is conflicting information on if this actually happened."
+      },
+      "media": {
+		  "url": "<blockquote>According to some policy document we have somewhere, probably, idk tbh.</blockquote>",
+		  "credit": "PJB",
+		  "caption": "A footnote PJB left on \"[o]ficially speaking\" in a sentence where she claimed that wizards have final say over project decisions."
+	  },
+      "group": "Major Events",
+      "unique_id": "purge"
+    },
+    {
+      "start_date": { "year": "2026", "month": "5", "day": "3", "hour": "9", "minute": "26"},
+      "text": {
+        "headline": "PJB Announces Plans to Step Down",
+        "text": "Following significant backlash to The Purge, PJB makes <a href='https://discord.com/channels/310555209753690112/310555407711993871/1500428449238749334'>an announcement</a> that she will step down as project lead. The announcement instructs people to decide on a suitable successor, that she will transfer everything, and that Space Station 14 will never recover."
+      },
+      "media": {
+		  "url": "<blockquote>I really appreciate the repeated claim that \"you agreed to transfer ownership\" and I know for a fact that people pulled that claim out of their ass because I sure as hell never posted a signed contract or anything similar publicly</blockquote>",
+		  "credit": "PJB (June, 2026)"
+	  },
+      "unique_id": "fake-surrender"
+    },
+    {
+      "start_date": { "year": "2026", "month": "5", "day": "4", "hour": "4", "minute": "52" },
+      "text": {
+        "headline": "Keyholder Elections",
+        "text": "WizDen holds a vote to decide on temporary key holders. The vote is organized by Princess Chester, Wizard's Den's new community manager. All current staff are allowed to vote and 3 people are selected in the end: Julian, DrSmugLeaf, and Reisama. All of them held leadership roles at the project manager level with them being a lead maintainer, a wizard, and a head game admin respectively."
+      },
+      "media": {
+		  "url": "<blockquote>This role would temporarily hold the keys to the project while we restructure. These keys will eventually be redistributed to relevant and trusted parties during or after restructuring depending on the role and how things go.</blockquote>",
+		  "credit": "Princess Chester"
+	  },
+      "group": "Behind the Scenes",
+      "unique_id": "keyholder-elections"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "4" },
+      "text": {
+        "headline": "\"Beg\"",
+        "text": "PJB posts a topic to an internal section of the Wizard's Den forums titled \"Beg\" which demands an apology for the Governance Internal Letter and raises personal grievances with staff, including one of the elected keyholders.<br /><br />WizDen says the post coincides with PJB locking Wizard's Den out of all infrastructure she can. PJB was unable to remove people from the SS14 Discord server, which she no longer had control of, and subreddit, where Reddit prevented her from removing moderators due to her inactivity moderating the subreddit. PJB also makes <a href='https://forum.spacestation14.com/t/current-status/27791'>a public announcement</a> around this time.<br /><br />PJB's posts on the topic largely align with public conduct. At least one member of staff attempts to de-escalate, but is unsuccessful. At this time, Wizard's Den had been working on selecting new directors, a process which this situation delayed."
+      },
+      "media": {
+		  "url": "<blockquote>You want to save this project? I want a fucking apology. <b><i>From fucking all of you</i></b>. For that piss ass letter.</blockquote>",
+		  "credit": "PJB"
+	  },
+      "group": "Behind the Scenes",
+      "unique_id": "beg"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "6", "hour": "2", "minute": "53" },
+      "text": {
+        "headline": "Core Infrastructure Outage",
+        "text": "Several Wizard's Den services go down, including authentication servers. Since most servers use the Wizard's Den authentication services, the outage makes it impossible to connect to most Space Station 14 game servers, including many that are not run by Wizard's Den.<br /><br />PJB (\"PJBDen\") makes <a href='/assets/2026-07-footgun/wizden-backdoor.png'>an announcement</a> shortly after the outage begins, saying that it is a security precaution in response to Wizard's Den staff (\"StaffDen\") using a backdoor to hack into servers and leak the database. StaffDen claim they used access they were given to data they legally own to create a backup. PJB provided a redacted screenshot of SSH logs as evidence, but the screenshots do not provide sufficient evidence to prove unauthorized access and StaffDen dispute these were related to the backup.<br /><br />Early reports accuse PJB of deleting the databases. This appears to have been inferred because of the outage and contents of the \"Beg\" post. PJB did reportedly accidentally delete at least some data and had to restore from a backup she had. Amidst the uncertainty of the outage, some servers began using alternate methods to allow players to securely connect to them."
+      },
+      "media": {
+		  "url": "<blockquote>WizDen staff has used a backdoor in all our infra servers to hack into them and leak the database. Assume absolutely all information, passwords, emails, etc is compromised.</blockquote>",
+		  "credit": "PJB"
+	  },
+      "group": "Major Events",
+      "unique_id": "panic-outage"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "6", "hour": "4" },
+      "text": {
+        "headline": "Bhijn is Demoted and Banned from StaffDen",
+        "text": "StaffDen demotes and bans Bhijn, a project manager, citing suspicion of leaking information to PJB."
+      },
+      "unique_id": "bye-bhijn"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "6", "hour": "8" },
+      "text": {
+        "headline": "Core Infrastructure Restored",
+        "text": "The authentication server and hub are restored, about an hour apart from each other. PJB seems to have full control, while StaffDen appears to no longer have any access. All Wizard's Den game servers remain down, and some unaffiliated game servers voluntarily stay offline, but players are able to connect to those that choose to run normally.<br /><br />Some time later, Wizard's Den game servers run by PJBDen return, with PJB rapidly bringing on new game admins to make up for the general unwillingness of StaffDen game admins to admin PJBDen servers."
+      },
+      "display_date": "About 5 Hours After Being Brought Down",
+      "unique_id": "nothing-ever-happens"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "15", "hour": "2", "minute": "1" },
+      "text": {
+        "headline": "StaffDen Announce New Core Infrastructure",
+        "text": "StaffDen posts an announcement informing players that they have set up services using a new domain, playss14.com, and provided instructions for players on how to use services on the new domain. The services include an authentication server using a backed-up version of the user database and a hub server.<br /><br />Simultaneously, a new GitHub repository is announced that they say will be temporary until the one under PJB's control can be reclaimed. StaffDen did not bring up game servers.<br /><br />Email sending, necessary for password resets and new account registrations, is not functional at the time of the announcement."
+      },
+      "group": "Major Events",
+      "unique_id": "spiderman-meme"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "15", "hour": "20", "minute": "24" },
+      "text": {
+        "headline": "Steam Launcher Warning",
+        "text": "The Steam version of Space Station 14, controlled by PJB, is updated. The update causes it to show a message to some returning users, a behavior that does not happen in the open source version with an identical version number. It is unclear why the message is not included in the open source version."
+      },
+      "media": {
+		  "url": "<blockquote>The existing Discord has been taken over by a group of former staff members, who are not in control of the game's infrastructure.<br /><br />They have, however, made an unauthorized copy of our database and are using this to host their own services. We cannot guarantee the security of your data at this time, and are pursuing legal measures.</blockquote>",
+		  "caption": "Text from the body of a message shown in the launcher to some users, titled \"Notice about status of Discord\""
+	  },
+      "unique_id": "fear"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "16" },
+      "text": {
+        "headline": "Mass Dehubbing by PJB",
+        "text": "Reports appear that PJB is mass dehubbing servers that use StaffDen authentication servers. In at least one instance, the dehubbings were reported to affect a server not using PJBDen authentication servers. The dehubbings were not disclosed on the PJBDen forums, where dehubbings are often announced."
+      },
+      "media": {
+		  "url": "<blockquote>Threatened? I just pulled the trigger like 20 minutes ago</blockquote>",
+		  "credit": "PJB"
+	  },
+      "unique_id": "dehubbings"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "16", "hour": "22", "minute": "5" },
+      "text": {
+        "headline": "StaffDen Directors",
+        "text": "StaffDen posts an announcement that says that power will now be split between 7 project directors, and that hierarchies have been condensed. The list of project directors includes former project managers, the interim community manager, and two people who were not publicly Wizard's Den staff prior to the announcement."
+      },
+      "unique_id": "directors-chosen"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "18", "hour": "23" },
+      "text": {
+        "headline": "StaffDen AMA",
+        "text": "StaffDen runs <a href='https://www.reddit.com/r/ss14/comments/1u8w65w/ask_the_community_director_of_the_space_wizards/'>an AMA</a> on the r/ss14 subreddit, with questions answered by community director and new project director Princess Chester (u/Princchester).<br /><br />In answers to questions, Princess Chester provides some details about changes StaffDen has and will be working on since the split. Chester shares that there are multiple people who will be helping to maintain the engine."
+      },
+      "media": {
+		  "url": "<blockquote>PJB did not sign anything when she handed over the project it was entirely verbal and written. This is typically good enough in our case for proving a desire to transfer ownership but it does make it a pain in the ass.</blockquote>",
+		  "credit": "u/Princchester",
+		  "caption": "Wizard's Den's Community Director's answer to a question about if PJB signed anything agreeing to a transfer"
+	  },
+      "unique_id": "reddit-ama"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "19", "hour": "20", "minute": "11" },
+      "text": {
+        "headline": "PJBboxJR",
+        "text": "PJB posts <a href='https://forum.spacestation14.com/t/current-alt-wizden-contact-status/27998'>an announcement</a> on the PJBDen forums disclosing an email she sent to Julian. In it, she offers to give StaffDen control of the game servers, content repository, and other similar assets while retaining control of the engine, authentication servers, and other similar assets. PJB says that she is unwilling to give up full control over the Steam listing and domain names, and is unwilling to work under StaffDen's legal entity.<br /><br />Julian replies by directing PJB to email a legal contact, saying that he does not have control of the legal proceedings."
+      },
+      "media": {
+		  "url": "<blockquote>Are you really ready to keep escalating all of this? To spend the next 6, maybe 12 months of your life with a lawsuit over your head? To throw away tens of thousands of dollars on legal fees? Are you?</blockquote>",
+		  "credit": "PJB"
+	  },
+      "unique_id": "status-quo"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "20", "hour": "21", "minute": "29" },
+      "text": {
+        "headline": "Kayek Posts about his Recent Forum Ban",
+        "text": "Kayek, (u/Capt_Kayek) a former SS14 game admin who left during the 2024 admin departure, <a href='https://www.reddit.com/r/ss14/comments/1ub82wh/banned_by_pjb_on_ss14_forums_for_defending_myself/'>posts on the r/ss14 subreddit</a> sharing PJB's response to Kayek's attempt to defend himself from PJB's statements on the forums, which included PJB temporarily suspending Kayek from the forums.<br /><br />PJB would later describe the post as harassment and attempt to get the subreddit's moderators to delete it."
+      },
+      "media": {
+		  "url": "<blockquote>My purpose here is to present this information to the community, as I feel PJB is instead the one being aggressive and abusive by actively trying to squelch and censor me for disagreeing with her. </blockquote>",
+		  "credit": "u/Capt_Kayek"
+	  },
+      "unique_id": "banned-for-not-accepting-lies"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "23" },
+      "text": {
+        "headline": "PJB Regains Control of the SS14 Discord Server",
+        "text": "PJB leverages her control of the domain name used for an email associated with the account controlling the Space Station 14 Discord server to regain control.<br /><br />She <a href='/2026/06/24/ss14-discord-hijack.html'>appears</a> to attempt to use the control to extort StaffDen."
+      },
+      "media": {
+		  "url": "/assets/2026-06-ss14-discord-hijack/4.png",
+		  "caption": "A screenshot showing messages from PJB in the Space Station 14 Discord server after regaining control."
+	  },
+      "group": "Major Events",
+      "unique_id": "is-this-allowed"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "24", "hour": "23", "minute": "53" },
+      "text": {
+        "headline": "PJB Lies about the Departure",
+        "text": "Contradicting earlier statements made in her The State of Wizden post from 2024, PJB <a href='/2026/06/25/credibility.html'>falsely claims</a> that the 2024 admin departure happened because the headmins were \"bad actors actively lying to their admins.\""
+      },
+      "media": {
+		  "url": "/assets/2026-06-credibility/1.png",
+		  "caption": "A screenshot showing the contrast between PJB's statement and earlier statements made in the forum post On the State of Wizden. The forum post screenshot has been modified to emphasize the most relevant portions."
+	  },
+      "unique_id": "firehose-of-lies"
+    },
+    {
+      "start_date": { "year": "2026", "month": "6", "day": "25", "hour": "9", "minute": "52" },
+      "text": {
+        "headline": "The End of PJBDen",
+        "text": "PJB <a href='https://discord.com/channels/310555209753690112/310555407711993871/1519641361073045576'>announces</a> that the Discord server has been transferred to Emisse, one of the new project directors, and that PJB will work to transfer the other things."
+      },
+      "media": {
+		  "url": "<blockquote>Fine<br /><br />I've transferred the discord to emisse<br /><br />DM me for other shit. all the important people are unblocked.<br /><br />You people are fucking deranged and will run this game into the ground. I expect we'll never have good admin tools, mapping tools, engine rewrites (e.g. true single player), critical UI improvements, or anything similar.<br /><br />Goodbye</blockquote>",
+		  "credit": "PJB"
+	  },
+      "group": "Major Events",
+      "unique_id": "finally"
+    },
+    {
+      "start_date": { "year": "2026", "month": "7", "day": "7", "hour": "18" },
+      "text": {
+        "headline": "PJB Auth Banned",
+        "text": "Wizard's Den locks PJB's SS14 account at the auth level, which is essentially a full account ban. This means that PJB is unable to log in to anything using her Space Station 14 account, including any SS14 server that exclusively uses the main authentication servers.<br /><br />PJB makes <a href='https://www.patreon.com/spacestation14/posts/pjb-status-163172576'>a post</a> on the Space Station 14 Patreon, which she still controls, about this. In it, she mentions a case where someone had sent a C&D to PJB and another member of staff, saying that she does not think their account was auth locked. It was. PJB placed the auth lock on that person's account and also took steps to prevent users of a launcher that the same person had made from interacting with Wizard's Den services while using that launcher.<br /><br />Wizard's Den indicated that the auth lock was placed out of caution as services were brought up to mitigate the risk of another instance of unauthorized access similar to what happened with the Discord server."
+      },
+      "media": {
+		  "url": "<blockquote>I guess I never explained <i>why</i> I gave up control of the game over. (sic) It's mostly because I didn't want to get legally harassed by these people for the next year of my life. They had absolutely no legal means to claim ownership over any of the shit they did, but the fact is that burning <i>hundreds</i> of thousands of dollars on legal fees to harass me was entirely within their plans.</blockquote>",
+		  "credit": "PJB"
+	  },
+      "unique_id": "karma"
+    },
+    {
+      "start_date": { "year": "2026", "month": "7", "day": "9" },
+      "text": {
+        "headline": "WizDen Takes Control of Patreon",
+        "text": "Wizard's Den takes control of the Space Station 14 Patreon account. They make an announcement claiming to now have control over all \"keys.\"<br /><br />In <a href='https://www.patreon.com/spacestation14/posts/letter-to-our-163296113'>a post</a> on Patreon, Wizard's Den says they will consider removing the auth lock on PJB's account when \"the security posture is fit-for-purpose and audits are completed,\" but says they will not make a formal announcement once a decision is made.<br /><br />Given PJB's behavior, at least some staff are opposed to the removal of the auth lock."
+      },
+      "unique_id": "end-tm"
+    }
+  ],
+  "eras": [
+	{
+		"start_date": { "year": "2024", "month": "11", "day": "10" },
+		"end_date": { "year": "2026", "month": "2", "day": "10", "hour": "14", "minute": "8" },
+		"text": {
+			"headline": "Background Info"
+		}
+	},
+	{
+		"start_date": { "year": "2026", "month": "2", "day": "10", "hour": "14", "minute": "8" },
+		"end_date": { "year": "2026", "month": "2", "day": "26", "hour": "17", "minute": "45" },
+		"text": {
+			"headline": "\"The Dwarf Incident\""
+		}
+	},
+	{
+		"start_date": { "year": "2026", "month": "5", "day": "2", "hour": "13", "minute": "46"},
+		"end_date": { "year": "2026", "month": "5", "day": "3", "hour": "9", "minute": "26"},
+		"text": {
+			"headline": "\"The Purge\""
+		}
+	},
+	{
+		"start_date": { "year": "2026", "month": "6", "day": "4" },
+		"end_date": { "year": "2026", "month": "6", "day": "6", "hour": "8" },
+		"text": {
+			"headline": "Coup or Rug Pull?"
+		}
+	},
+	{
+		"start_date": { "year": "2026", "month": "6", "day": "6", "hour": "8" },
+		"end_date": { "year": "2026", "month": "6", "day": "23" },
+		"text": {
+			"headline": "\"The Fracture\""
+		}
+	},
+	{
+		"start_date": { "year": "2026", "month": "6", "day": "23" },
+		"end_date": { "year": "2026", "month": "7", "day": "9" },
+		"text": {
+			"headline": "\"The End\""
+		}
+	}
+  ]
+}
