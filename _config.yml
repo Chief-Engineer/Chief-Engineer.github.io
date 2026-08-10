@@ -36,6 +36,8 @@ jekyll_clicky:
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
 whitelist:
   - jekyll-feed
   - jekyll-redirect-from

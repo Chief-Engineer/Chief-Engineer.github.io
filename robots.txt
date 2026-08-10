@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /_site/
+Disallow: /_posts/
+Disallow: /_drafts/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_config.yml
+Disallow: /Gemfile
+Disallow: /Gemfile.lock
+Disallow: /.git/
+
+Sitemap: https://chief-engineer.github.io/sitemap.xml
